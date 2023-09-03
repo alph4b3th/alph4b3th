@@ -1,6 +1,5 @@
 # ✨ Sobre mim 
  [![LinkedIn Badge](https://img.shields.io/badge/-Bruno&nbsp;I.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alph4b3th/)](https://www.linkedin.com/in/alph4b3th/)
-[![Discord](https://img.shields.io/badge/Discord-alph4b3th%20-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/123456789lph4b3th)
 [![Upwork Profile](https://img.shields.io/badge/Upwork-Bruno&nbsp;I.-%2374A346?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d132cf71a396884b)
 
 ☕ Sou um desenvolvedor Go altamente experiente
