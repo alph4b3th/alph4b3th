@@ -13,3 +13,12 @@ com um histórico sólido de mais de 5 anos de atuação nesse ecossistema. Minh
 
 ❤️ Agradeço antecipadamente pela oportunidade de trabalhar em conjunto. Estou genuinamente entusiasmado com a perspectiva de contribuir para o sucesso dos seus projetos e estou ansioso para embarcar nessa jornada com você.
 
+# 🔮 🌟 Godot-AI
+![image](https://github.com/alph4b3th/alph4b3th/assets/66482679/625d5870-ebd0-4568-9a70-35d33d578894)
+
+🎥 [Vídeo Demonstrativo no YouTube](https://www.youtube.com/watch?v=29HReOtTa6M)
+
+**Godot-AI** é um dos meus projetos pessoais, um jogo feito com Godot 3 que eu mesmo desenvolvi com a **implementação do meu próprio modelo de I.A**.
+O objetivo do jogo é fugir dos obstáculos que caem em pontos aleatórios da arena, o jogo **é controlado por um cubo**, representando o personagem e as linhas aos redores do personagem, representam ativações de sensores. 
+Quando os sensores de distância do personagem detecta algum objeto em alguma direção, uma linha é desenhada na tela para representar visualmente, que o sensor está detectando algum objeto na respectiva direção.
+Sobre o modelo de I.A, é uma rede neural artificial com aprendizagem por reforço, ou seja, o modelo aprende iterativamente com seus próprios erros jogando o jogo. Não é necessário nenhum pré-treinamento, conforme a I.A descobre o jogo e como ele funciona ela ganha experiência, quanto mais tempo ela jogar ela se torna mais experiente. O Projeto teve sua versão final construida em **15 de maio de 2020**, **sem usos de frameworks ou libs** de ML/Deep learning. 
