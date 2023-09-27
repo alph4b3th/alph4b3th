@@ -1,6 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alph4b3th&theme=gruvbox&locale=pt-br&border_radius=18&border_color=F45B69&title_color=80DED9&bg_color=242038&text_color=CAC4CE&show_icons=true )](https://github.com/alph4b3th/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=goseventh&repo=rakstar&show_owner=true&border_radius=18&border_color=F45B69&title_color=80DED9&bg_color=242038&text_color=CAC4CE)](https://github.com/goseventh/rakstar)
+
 
 # ✨ Sobre mim 
 
