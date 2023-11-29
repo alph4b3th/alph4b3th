@@ -7,8 +7,7 @@
 [![Upwork Profile](https://img.shields.io/badge/Upwork-Bruno&nbsp;I.-%2374A346?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d132cf71a396884b)
 
 
-☕ Sou um desenvolvedor Go altamente experiente
-com um histórico sólido de mais de 5 anos de atuação nesse ecossistema. Minha paixão inabalável pela linguagem Go e meu compromisso com a excelência me impulsionaram a me destacar como profissional.
+☕ Sou um desenvolvedor Go apaixonado pela linguagem e meu compromisso com a excelência me impulsionaram a me destacar como profissional.
 
 🌟 Minha expertise abrange uma ampla gama de áreas, incluindo o desenvolvimento de software altamente performático, a implementação de redes neurais artificiais para soluções de inteligência artificial, além de habilidades intermediárias em programação de baixo nível e até mesmo o emocionante campo de desenvolvimento de jogos.
 
